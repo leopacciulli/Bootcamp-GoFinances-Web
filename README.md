@@ -23,6 +23,10 @@
 ### 📝 About the project
 This will be an application that will connect to your Challenge 06 backend, and display the transactions created and allow you to import a CSV file to generate new records in the database.
 
+<div align="center">
+  <img src="./src/assets/gofinances.gif" width="550px" />
+</div>
+
 <br>
 
 ## 🤖 Front-End
