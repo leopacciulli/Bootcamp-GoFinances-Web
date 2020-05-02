@@ -53,7 +53,7 @@ Clone the project: `git clone https://github.com/leopacciulli/Bootcamp-GoFinance
 $ https://github.com/leopacciulli/Bootcamp-GoFinances-Backend
 
 # to enter the Front-end folder
-$ cd Desafio07-GoFinances-ReactJS
+$ cd Bootcamp-GoFinances-Frontend
 
 # to download the dependencies
 $ yarn
@@ -68,7 +68,7 @@ $ yarn start
 
 ````zsh
 # to enter the Back-End folder
-$ cd Desafio07-GoFinances-ReactJS
+$ cd Bootcamp-GoFinances-Frontend
 
 # to run tests
 $ yarn start
